@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(233, 247, 252);
+}
+
+h1{
+    font-size: 45px;
+    
+}
+
+#app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+.number{
+    font-size: 150px;
+}
+.txt{
+    font-size: 40px;
+}
+#body2{
+    display: flex;
+    justify-content: space-around;
+    width: 31rem;
+    margin-right: 77px;
+    
+}
+.btn{
+    font-size: 20px;
+    border-radius: 5px;
+}
+#start{
+    background-color: lightgreen;
+}
+#stop{
+    background-color: red;
+
+}
+#reset{
+    background-color: lightblue;
+}
